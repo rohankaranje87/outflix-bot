@@ -123,7 +123,7 @@ if len(BIN_CHANNEL) == 0:
     exit()
 else:
     BIN_CHANNEL = int(BIN_CHANNEL)
-URL = environ.get("URL", "https://outflix-jip9.onrender.com")
+URL = environ.get("URL", "https://outflix-bot-5zut.onrender.com")
 if len(URL) == 0:
     print('Error - URL is missing, exiting now')
     exit()
